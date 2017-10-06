@@ -19,7 +19,8 @@ then all bets are off on this program.
 There are two file paths that need to be edited in the program:
 
 winlinkgpx = path to file (example:  c:\users\maddox\opencpn\winlink.gpx)  This is the file that is written.
-y = path to input file    (example:  c:\users\maddox\opecpn\winlink-station-list)  This is the file downloaded via airmail.
+
+y = path to input file    (example:  c:\users\maddox\opecpn\winlink-station-list.txt)  This is the file downloaded via airmail.
 
 To use with OpenCPN, click on the Tools tab, select the Route & Mark Manager option, and then the Layers tab.  Select the 
 Temporary Layers button, and then point it to the file just created (the gpx file).  Return to the chart display and if a 
