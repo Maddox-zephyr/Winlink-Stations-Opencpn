@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.0" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<time>2017-10-06T22:57:03Z</time>
+<wpt lat="-20.3125" lon="57.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>3B8DU</name>
+<desc> 7052.5 10144.5 14080.0 21080.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="10.3541666667" lon="123.958333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>4F7FDM</name>
+<desc> 14074.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="48.1041666667" lon="-116.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>AF7JX</name>
+<desc> 3594.5 7106.5 14091.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="33.4791666667" lon="-83.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>AJ4GU</name>
+<desc> 7089.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.4791666667" lon="-86.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>AK4SK</name>
+<desc> 3570.0 3591.0 7064.0 7102.7 10130.0 10145.5 14065.0 14103.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="50.2291666667" lon="8.79166666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>DB0ZAV</name>
+<desc> 3597.5 7051.0 14110.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="51.2708333333" lon="6.45833333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>DM2TIM</name>
+<desc> 7048.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="13.9375" lon="121.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>DX1M</name>
+<desc> 7030.5 7168.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="46.8958333333" lon="7.29166666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>HB9AK</name>
+<desc> 3614.5 7051.5 10145.9 14116.5 18115.9 21115.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="47.3541666667" lon="8.95833333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>HB9AK-1</name>
+<desc> 28312.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="41.7291666667" lon="12.7916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>IK0OXK</name>
+<desc> 7045.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.5625" lon="10.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>IQ2CF</name>
+<desc> 7047.0 7051.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.6041666667" lon="9.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>IQ2LB</name>
+<desc> 3620.0 7044.5 7049.9 10145.9 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="42.1875" lon="12.7916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>IR0UGN</name>
+<desc> 7049.9 14110.4 21109.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="39.3958333333" lon="9.20833333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>IS0GRB-5</name>
+<desc> 14098.7 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.8125" lon="9.20833333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>IW2EKO</name>
+<desc> 3619.0 7053.0 10137.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="37.3125" lon="-121.958333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>K2RDX</name>
+<desc> 7096.5 7102.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.5208333333" lon="-97.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>K5AEA</name>
+<desc> 7104.5 7111.0 10146.0 14097.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="37.9791666667" lon="-122.541666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>K6SDR</name>
+<desc> 3589.0 7104.5 10146.2 14105.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.6875" lon="-109.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>K7CTM</name>
+<desc> 3592.7 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.9791666667" lon="-111.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>K7DAV</name>
+<desc> 3597.0 7065.9 7104.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="47.0208333333" lon="-122.791666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>K7IF</name>
+<desc> 10144.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.9375" lon="-81.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>K8SRR-10</name>
+<desc> 145090.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.1458333333" lon="-87.7083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>K9ANF</name>
+<desc> 7072.0 7101.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.2291666667" lon="-73.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB2ZGA</name>
+<desc> 7099.5 14117.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="39.8958333333" lon="-75.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB3PCY</name>
+<desc> 7086.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="29.8541666667" lon="-95.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB5HCD</name>
+<desc> 7065.3 7101.0 10145.2 14103.2 18105.1 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="34.8125" lon="-92.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB5LZK</name>
+<desc> 3595.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.0208333333" lon="-95.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB5MAC</name>
+<desc> 3572.0 3594.0 7082.5 7103.9 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="29.8541666667" lon="-90.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>KB5OZE</name>
+<desc> 3585.0 7087.5 10134.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="33.2708333333" lon="-97.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>KC5GOI</name>
+<desc> 3601.5 7104.8 14113.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="33.2708333333" lon="-93.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KC5OAS-10</name>
+<desc> 3596.5 7101.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.8541666667" lon="-122.791666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KC7COL</name>
+<desc> 3597.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.4791666667" lon="-80.7083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KC8YJJ</name>
+<desc> 3589.5 7102.5 14095.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.6041666667" lon="-111.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>KD6OAT</name>
+<desc> 3594.0 7097.0 10132.0 10145.0 14110.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.3541666667" lon="-92.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>KF5FNP</name>
+<desc> 3583.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="43.1458333333" lon="-124.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>KF7RSF</name>
+<desc> 3585.5 7101.5 10144.5 14101.7 14103.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="36.7708333333" lon="-119.708333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KJ6HUP</name>
+<desc> 7101.0 10141.0 14104.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="38.8958333333" lon="-119.708333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KJ6IX</name>
+<desc> 7103.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="34.8958333333" lon="-84.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KK4NTE</name>
+<desc> 7097.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.5625" lon="-84.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KK4SIH</name>
+<desc> 14160.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="29.5625" lon="-97.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KK5QT</name>
+<desc> 14098.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="64.8958333333" lon="-147.708333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>KL7EDK</name>
+<desc> 3595.0 7104.4 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="36.8541666667" lon="-76.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KQ4ET</name>
+<desc> 3589.0 7101.2 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="29.6875" lon="-82.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>KX4Z</name>
+<desc> 3595.5 7104.0 10141.0 14098.7 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="60.3958333333" lon="5.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>LA1B</name>
+<desc> 3596.0 5280.0 7048.0 28313.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="58.6458333333" lon="5.70833333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>LA1J</name>
+<desc> 3603.5 5353.5 5355.0 5356.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="59.7708333333" lon="10.7916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>LA3F</name>
+<desc> 3597.9 5321.5 5360.0 7049.5 10145.4 10147.1 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="60.7708333333" lon="10.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>LA5G</name>
+<desc> 3595.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="69.0208333333" lon="18.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>LA6M</name>
+<desc> 3595.5 5271.5 7047.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="42.4791666667" lon="27.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>LZ3CB</name>
+<desc> 3598.5 7046.0 10135.5 14114.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="47.0208333333" lon="-91.7083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>N0LCR-1</name>
+<desc> 3586.5 3596.5 7103.5 7113.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="38.5208333333" lon="-90.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N0MTH-10</name>
+<desc> 7104.4 10148.0 14093.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="38.9791666667" lon="-77.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>N2LEE</name>
+<desc> 3591.0 7102.5 14105.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="39.8958333333" lon="-75.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N3FCX</name>
+<desc> 14080.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="34.7291666667" lon="-85.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N4JGW</name>
+<desc> 3597.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.3958333333" lon="-95.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>N5MDT</name>
+<desc> 7104.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.6458333333" lon="-97.7916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N5TW</name>
+<desc> 3596.0 7066.5 7091.5 7102.0 10148.0 14110.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="46.3958333333" lon="-119.041666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N7MO</name>
+<desc> 3597.0 7082.0 10147.7 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="42.7708333333" lon="-88.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>N9LOH-5</name>
+<desc> 3579.2 7096.5 10134.5 14106.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="29.6875" lon="-82.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>NF4RC</name>
+<desc> 3595.0 7101.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="21.4375" lon="-157.791666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>NH6NN</name>
+<desc> 7103.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="39.1875" lon="-92.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>NS0Y</name>
+<desc> 7071.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="48.1041666667" lon="14.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>OE3XEC</name>
+<desc> 3608.5 3617.5 10146.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="48.1875" lon="14.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>OE5XIR</name>
+<desc> 3605.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="47.2708333333" lon="9.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>OE9XRK</name>
+<desc> 3602.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="60.6041666667" lon="25.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>OH2REA-5</name>
+<desc> 3596.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="64.8958333333" lon="77.7083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>RT9K</name>
+<desc> 3585.0 7178.0 10128.0 10132.0 14105.7 14110.5 21115.3 28317.3 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="54.8958333333" lon="38.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>RZ3DHN</name>
+<desc> 3615.8 7047.3 7078.8 10142.8 10150.0 14098.3 14105.3 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="46.0625" lon="14.5416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>S50ARO</name>
+<desc> 14112.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="46.1875" lon="15.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>S57MK</name>
+<desc> 3620.0 7047.5 10146.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="46.1875" lon="15.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>S57MK-1</name>
+<desc> 28311.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.9375" lon="14.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>S57MK-2</name>
+<desc> 3621.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="59.0625" lon="16.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>SK5UM</name>
+<desc> 3615.0 5311.5 7060.0 14109.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="57.6875" lon="11.7083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>SK6PS</name>
+<desc> 3618.0 7053.5 10146.5 14107.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="58.6875" lon="16.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>SM5RVH</name>
+<desc> 3602.0 7056.0 10142.0 14112.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="49.1458333333" lon="-122.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>VA7DEP</name>
+<desc> 7088.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="44.6875" lon="-63.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>VE1YZ</name>
+<desc> 3565.0 7096.5 10136.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="43.7291666667" lon="-79.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>VE3HJL</name>
+<desc> 3613.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="54.8125" lon="-127.208333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>VE7RBH</name>
+<desc> 3625.0 7064.5 14081.5 18107.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="-33.7291666667" lon="151.208333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>VK2JN</name>
+<desc> 3620.2 7046.7 10116.2 14106.7 18107.0 21298.7 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="-38.3125" lon="145.041666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>VK3DPW</name>
+<desc> 3635.0 7030.5 10142.5 14113.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.0208333333" lon="-95.4583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>W0MAC</name>
+<desc> 3584.5 3592.0 7066.0 7101.2 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="42.5208333333" lon="-71.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>W1EO</name>
+<desc> 1842.0 3597.9 7104.5 10144.5 14104.2 50150.2 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="40.2708333333" lon="-74.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>W2GSA-5</name>
+<desc> 7090.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="34.9375" lon="-76.9583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>W4EDW</name>
+<desc> 3586.5 3610.5 7037.5 7103.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="37.4791666667" lon="-77.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>W4MEV</name>
+<desc> 3596.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="36.0625" lon="-76.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>W5ARX</name>
+<desc> 7068.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="39.8958333333" lon="-84.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>W6IDS</name>
+<desc> 3569.0 7084.5 145085.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="45.8958333333" lon="-122.708333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>W7BO</name>
+<desc> 7805.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="33.8958333333" lon="-83.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>WA4DYD-10</name>
+<desc> 28193.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="41.7708333333" lon="-74.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>WB2LMV</name>
+<desc> 7103.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="38.5208333333" lon="-86.4583333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>WB9FHP-5</name>
+<desc> 3575.5 7073.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="43.9791666667" lon="-69.2916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>WD1O</name>
+<desc> 3589.5 7102.5 28111.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="30.1041666667" lon="-81.7916666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>WD4SEN</name>
+<desc> 3587.5 7101.5 10142.5 14095.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="42.8958333333" lon="-72.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>WQ2H</name>
+<desc> 3565.0 3595.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="33.8541666667" lon="-84.875">
+<time>2017-10-06T22:57:03Z</time>
+<name>WX4PCA-10</name>
+<desc> 3591.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="20.6875" lon="-101.375">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE1CRG</name>
+<desc> 10142.0 14085.0 18107.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="19.0208333333" lon="-98.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE1SVT</name>
+<desc> 3592.5 7068.5 10142.2 14094.0 21102.5 28168.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="19.3541666667" lon="-99.2083333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE1VP</name>
+<desc> 7069.0 10143.0 14092.9 18099.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="32.5208333333" lon="-116.958333333">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE2BNC</name>
+<desc> 3591.7 7068.0 10144.0 14095.5 18098.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="16.7708333333" lon="-93.125">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE2GJJ</name>
+<desc> 3592.5 7069.0 10146.5 14096.9 18097.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="20.6458333333" lon="-87.0416666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>XE3N</name>
+<desc> 3591.5 7067.5 10141.5 14095.5 18104.5 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="-34.4791666667" lon="174.541666667">
+<time>2017-10-06T22:57:03Z</time>
+<name>ZL1BDL</name>
+<desc> 7040.0 
+</desc>
+<sym>circle</sym></wpt>
+<wpt lat="-33.8541666667" lon="18.625">
+<time>2017-10-06T22:57:03Z</time>
+<name>ZS1RS</name>
+<desc> 7046.5 14105.5 14109.0 21117.5
+</desc>
+<sym>circle</sym></wpt></gpx>
