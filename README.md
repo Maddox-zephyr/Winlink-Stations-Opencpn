@@ -41,12 +41,5 @@ so do the following at a command promp (with a path to pip):
   $ pip install pyhamtools
   $ pip install pygpx
 
-A station gpx record looks like this:
 
-  <wpt lat="32.7291666667" lon="-117.208333333">
-  <time>2017-10-05T23:19:21Z</time>
-  <name>W6IM</name>
-  <desc> 7072.0 7102.0# 10145.0# 14097.0# 
-  </desc>
-  <sym>circle</sym></wpt>
 
