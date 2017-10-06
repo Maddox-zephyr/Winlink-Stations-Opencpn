@@ -42,6 +42,10 @@ so do the following at a command promp (with a path to pip):
   $ pip install pyhamtools
   
   $ pip install pygpx
+  
+  Thanks to Colin ZS1RS for pointing me in the right direction.
+  
+  
 
 
 
