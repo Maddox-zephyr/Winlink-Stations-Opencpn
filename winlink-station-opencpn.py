@@ -26,7 +26,7 @@ y= r'c:\users\maddox\opencpn\winlink-station-list.txt'
 
 dashes = "------------------"
 dbldash = "====="
-date = "Date"
+date = "WINLINK"
 state = 0
 
 f = open(y, "r")
@@ -40,7 +40,7 @@ i = len(lines)                              # number of lines in the file
 #print i, lines[i-1]
 
 gpx = gpxpy.gpx.GPX()                       # Create GPX structure
-gpx.time = mod_datetime.datetime(2014, 4, 7, 21, 17, 39)
+gpx.time = mod_datetime.datetime.today()
 
 
 for x in range (0,i):
@@ -48,9 +48,12 @@ for x in range (0,i):
     if state == 0:                          # Search for Date
         if lines[x].startswith(date):
             #print x, lines[x]
-            datelast = lines[x][6 : 26]
+            open_paren = lines[x].find("(")
+            close_paren = lines[x].find(")")
+            datelast = lines[x][open_paren+1 : close_paren-4]
             print datelast
-            gpx.time = mod_datetime.datetime.strptime(datelast, "%d %b %Y %X")
+            gpx.time = mod_datetime.datetime.strptime(datelast, "%A, %B %d, %Y %H:%M")
+            print gpx.time
             state = 1
 
         
@@ -66,8 +69,8 @@ for x in range (0,i):
         if isblank:
             nop = 0
         else:
-            if lines[x].startswith(dbldash):
-                state = 0
+            if lines[x].startswith(dbldash):    # "====" marks the end of the stations
+                state = 0                   # Harmless to search for date to end of lines
             else:
                 #print x, "not blank"
                 #print lines[x]
