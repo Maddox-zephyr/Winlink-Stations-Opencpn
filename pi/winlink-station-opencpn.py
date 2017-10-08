@@ -21,8 +21,8 @@ import gpxpy
 import gpxpy.gpx
 import datetime as mod_datetime
 
-winlinkgpx = r'winlink-pactor-stations.gpx'
-y= r'pactor-freq-list.txt'
+winlinkgpx = r'/home/pi/makegpx/winlink-pactor-stations.gpx'
+y= r'/home/pi/makegpx/pactor-freq-list.txt'
 
 dashes = "------------------"
 dbldash = "====="
