@@ -13,14 +13,14 @@ Download the python conversion program
 
 	wget https://github.com/Maddox-zephyr/Winlink-Stations-Opencpn/blob/master/pi/winlink-station-opencpn.py
 
-Copy bash script to download the stations-frequencies and convert to gpx. File stored at /home/pi/makegpx/winlink-pactor-stations.gpx
+Copy bash script to download the stations-frequencies and convert to gpx. 
 
 	wget https://github.com/Maddox-zephyr/Winlink-Stations-Opencpn/blob/master/pi/winlink-pactor.sh
 
 Run the script
 	sh /home/pi/makegpx/winlink-pactor.sh
 
-The latest frequency list gets downloaded, and then converted to the gpx file
+The latest frequency list gets downloaded, and then converted to the gpx file (/home/pi/makegpx/winlink-pactor-stations.gpx)
 
 To automatically (once a day) have the gpx generated, add the following to the crontab
 
