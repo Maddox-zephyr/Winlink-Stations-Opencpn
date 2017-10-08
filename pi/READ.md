@@ -13,7 +13,7 @@ Download the python conversion program
 
 	wget https://github.com/Maddox-zephyr/Winlink-Stations-Opencpn/blob/master/pi/winlink-station-opencpn.py
 
-Copy bash script to download the stations-frequencies and convert to gpx
+Copy bash script to download the stations-frequencies and convert to gpx. File stored at /home/pi/makegpx/winlink-pactor-stations.gpx
 
 	wget https://github.com/Maddox-zephyr/Winlink-Stations-Opencpn/blob/master/pi/winlink-pactor.sh
 
