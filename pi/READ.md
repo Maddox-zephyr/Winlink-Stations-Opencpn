@@ -26,4 +26,4 @@ To automatically (once a day) have the gpx generated, add the following to the c
 
 $ sudo crontab -e
 
-	0 0 * * *  sh /home/pi/makegpx/winlink-pactor.sh		# every night at midnight, run the script to update
+	0 0 * * *  /bin/bash /home/pi/makegpx/winlink-pactor.sh		# every night at midnight, run the script to update
