@@ -37,11 +37,11 @@ The program uses several add in libraries,
 - Pyhamtools (https://github.com/dh1tw/pyhamtools)
 - gpxpy      (https://github.com/tkrajina/gpxpy)
 
-so do the following at a command promp (with a path to pip):
+so do the following at a command prompt (with a path to pip):
 
-  $ pip install pyhamtools
+  $ sudo pip install pyhamtools
   
-  $ pip install pygpx
+  $ sudo pip install pygpx
   
   Thanks to Colin ZS1RS for pointing me in the right direction.
   
