@@ -39,11 +39,13 @@ The program uses several add in libraries,
 
 so do the following at a command prompt (with a path to pip):
 
-  $ sudo pip install pyhamtools
+  $ pip install pyhamtools
   
-  $ sudo pip install pygpx
+  $ pip install pygpx
   
   Thanks to Colin ZS1RS for pointing me in the right direction.
+  
+  If you want to install and run on a raspberry pi, check out the README.md in the pi directory.
   
   
 
