@@ -1,0 +1,644 @@
+WINLINK PACTOR CHANNEL LISTING - (Tuesday, February 13, 2018 05:07 UTC)
+Copyright (c) 2012-2018, Amateur Radio Safety Foundation, Inc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frequencies followed by a hash sign (#) are available for PACTOR 3 (and/or 4) connections.
+
+Explanation of codes:
+    - = Unknown
+    A = Additional information
+  Antenna being used:
+    B = Beam
+    D = Dipole
+    V = Vertical
+  Internet(details)
+    E = Email address of sysop - if not listed, use callsign@winlink.org
+    H = Homepage URL
+
+Channel, Sysop Name / Callsign, [Grid], (last update)
+-----------------------------------------------------------------------
+
+4F7FDM.WINLINK, Dondon/4F7FDM, [PK10XI: Mandaue City, Cebu], (Tue, 13 Feb 2018 04:06:00 GMT)
+   E  4f7fdm@gmail.com
+   A  Mandaue City, Cebu
+   -  14071.5 14071.5# 
+
+AG6QO.WINLINK, Joseph O. DeAngelo/AG6QO, [CM98AM: Winters, CA], (Tue, 13 Feb 2018 00:53:00 GMT)
+   E  jod@online-tek.com
+   H  ag6qo.com
+   A  Winters, CA
+   -  3581.5 3581.5# 3586.5 3586.5# 7103.5 7103.5# 14111.0 14111.0# 14113.0 14113.0# 
+
+AH6VF.WINLINK, Glenn/AH6VF, [BL11DI: Waimanalo, HI], (Tue, 13 Feb 2018 04:52:00 GMT)
+   E  ah0a@arrl.net
+   A  Waimanalo, HI
+   -  3589.5# 7101.5# 7110.0 21097.0# 
+
+AJ4FW.WINLINK, Ricki Lee Brown/AJ4FW, [EL87VC: North Port, FL], (Tue, 13 Feb 2018 05:00:00 GMT)
+   E  rbrown8565@gmail.com
+   A  North Port, FL
+   -  3595.0 3595.0# 7101.2 7101.2# 
+
+AJ4GU.WINLINK, michael d crowe/AJ4GU, [EM83AL: mcdonough, ga], (Tue, 13 Feb 2018 02:49:00 GMT)
+   E  aj4gu@bellsouth.net
+   A  mcdonough, ga
+   -  7104.0 7104.0# 
+
+AJ7C.WINLINK, Kevin Sherwood/AJ7C, [DM04TA: Culver City, CA], (Tue, 13 Feb 2018 02:18:00 GMT)
+   E  kevin@thesherwoods.org
+   A  Culver City, CA
+   -  3597.0# 7102.0# 14108.0# 
+
+C91PM.WINLINK, Paulo Machado/C91PM, [KG64HA: Maputo, Maputo], (Tue, 13 Feb 2018 02:24:00 GMT)
+   E  c91pm@yahoo.com
+   A  Maputo, Maputo
+   -  7033.0 7033.0# 10133.0 10133.0# 14133.0 14133.0# 21133.0 21133.0# 
+
+CT1CPS.WINLINK, Joao Costa/CT1CPS, [IM59NE: Lapa-Cartaxo, Ribatejo], (Tue, 13 Feb 2018 03:57:00 GMT)
+   E  zs1xp@sapo.pt
+   A  Lapa-Cartaxo, Ribatejo
+   -  3610.0 3610.0# 7046.0 7046.0# 10146.0 10146.0# 14105.0 14105.0# 28130.0 28130.0# 
+
+DA5UDI.WINLINK, Hans/DA5UDI, [JO30QJ: Kruft, RLP], (Tue, 13 Feb 2018 04:55:00 GMT)
+   E  dl5di@gmx.de
+   H  http://da5udi.prgm.org
+   A  Kruft, RLP
+   -  7051.4 7051.4# 14094.9 14102.4 14102.4# 14110.4 14110.4# 
+
+DB0NTS.WINLINK, Dr. Peter M. Dintelmann/DB0NTS, [JN49MP: Erbach, ODW], (Tue, 13 Feb 2018 04:33:00 GMT)
+   E  dl4fn@yahoo.com
+   H  http://nts-digital.net/mw/index.php/db0nts
+   A  Erbach, ODW
+   -  3593.5 14108.0 14108.0# 
+
+DB0ZAV.WINLINK, Rudolf DL1ZAV/DB0ZAV, [JO40JF: Karben, Hessen], (Tue, 13 Feb 2018 03:09:00 GMT)
+   E  dl1zav@web.de
+   H  qrz.com/db/db0zav
+   A  Karben, Hessen
+   -  3597.5 7051.0 14110.5 14110.5# 
+
+DX1M.WINLINK, Magellan Amateur Radio Repeater Network Philippines/DX1M, [PK03NW: Lipa City, Batangas], (Tue, 13 Feb 2018 03:27:00 GMT)
+   E  du1bp@yahoo.com
+   A  Lipa City, Batangas
+   -  5365.5 5365.5# 7031.5 7031.5# 
+
+EA8AYT.WINLINK, Alfred Deubler/EA8AYT, [IL28GC: Las Palmas, GC], (Tue, 13 Feb 2018 03:18:00 GMT)
+   E  adeubler@hotmail.com
+   H  ea8ayr@jpg.co;
+   A  Las Palmas, GC
+   -  7041.7 7041.7# 14110.0 14110.0# 18111.5 18111.5# 
+
+EI9KF.WINLINK, Hugh/EI9KF, [IO64TB: Dundalk, Co Louth], (Tue, 13 Feb 2018 04:11:00 GMT)
+   E  hughbradley@gmail.com
+   A  Dundalk, Co Louth
+   -  10147.0 10147.0# 
+
+HB9AK.WINLINK, Martin Spreng/HB9AK, [JN36PV: Cham, Zug], (Tue, 13 Feb 2018 04:54:00 GMT)
+   E  hb9aur@swiss-artg.ch
+   A  Cham, Zug
+   -  3614.5 3614.5# 7051.5 7051.5# 10145.9 14110.4 14110.4# 14116.5 14116.5# 18115.9 18115.9# 21115.0 21115.0# 
+
+HB9AK-1.WINLINK, Martin Spreng/HB9AK, [JN47LI: Cham, Zug], (Tue, 13 Feb 2018 05:01:00 GMT)
+   E  hb9aur@swiss-artg.ch
+   A  Cham, Zug
+   -  28312.5 28312.5# 
+
+HB9AK-14.WINLINK, Martin Spreng/HB9AK, [JN46FS: Cham, Zug], (Tue, 13 Feb 2018 04:39:00 GMT)
+   E  hb9aur@swiss-artg.ch
+   A  Cham, Zug
+   -  28307.5 28307.5# 
+
+HB9AW.WINLINK, Kuenzli, Karl HB9DSE/HB9AW, [JN47AB: Sursee, LU], (Tue, 13 Feb 2018 04:14:00 GMT)
+   E  hb9dse@hb9aw.ch
+   H  www.hb9aw.ch
+   A  Sursee, LU
+   -  3604.0 3604.0# 7052.5 7052.5# 14095.5 14095.5# 14107.5 14107.5# 21116.0 21116.0# 28315.0 28315.0# 
+
+HB9MM.WINLINK, Philip Steyaert/HB9MM, [JN36HM: Nyon, Vaud], (Mon, 12 Feb 2018 23:36:00 GMT)
+   E  philip@steyaert.ch
+   H  www.hb9mm.com
+   A  Nyon, Vaud
+   -  3605.5 3605.5# 7053.0 7053.0# 10145.0 10145.0# 14109.2 14109.2# 
+
+IQ2LB.WINLINK, Marco/IQ2LB, [JN45NO: Limbiate, MB], (Tue, 13 Feb 2018 04:10:00 GMT)
+   E  iw2ohx@iw2ohx.net
+   H  www.arilimbiate.it
+   A  Limbiate, MB
+   -  3620.0 3620.0# 7044.5 7044.5# 10145.9 10145.9# 
+
+IR0UGN.WINLINK, Raffaello IZ0QWM/IR0UGN, [JN62JE: Scandriglia, Rieti], (Tue, 13 Feb 2018 04:32:00 GMT)
+   E  raffaello.dimartino@kwos.org
+   H  http://www.kwos.it
+   A  Scandriglia, Rieti
+   -  7049.9 7049.9# 14110.4 14110.4# 21109.0 21109.0# 
+
+K2RDX.WINLINK, John A. Mezak/K2RDX, [CM97AH: San Jose, CA], (Tue, 13 Feb 2018 03:09:00 GMT)
+   E  jamezak@osbaccess.com
+   H  k2rdx@arrl.net
+   A  San Jose, CA
+   -  7096.5 7102.5# 
+
+K5AEA.WINLINK, Gary/K5AEA, [EM10DQ: Georgetown, TX], (Tue, 13 Feb 2018 03:36:00 GMT)
+   E  k5aea@ymail.com
+   A  Georgetown, TX
+   -  7104.5 7104.5# 7111.0 7111.0# 10146.0 10146.0# 14097.5 14097.5# 
+
+K6CYC.WINLINK, CALIFORNIA YACHT CLUB/K6CYC, [DM03SX: Marina del Rey, CA], (Tue, 13 Feb 2018 02:20:00 GMT)
+   E  catalina38@aol.com
+   A  Marina del Rey, CA
+   -  7103.5# 10146.2# 14108.5# 
+
+K6IXA.WINLINK, Grady Williams/K6IXA, [CM97QI: Atwater, CA], (Tue, 13 Feb 2018 03:07:00 GMT)
+   E  gradyw@elite.net
+   A  Atwater, CA
+   -  7076.9 7102.4# 10122.9 10143.7# 
+
+K6JGL.WINLINK, jim lankford/K6JGL, [DM03TU: torrance, ca], (Tue, 13 Feb 2018 04:24:00 GMT)
+   E  k6jgl@arrl.net
+   A  torrance, ca
+   -  3595.0 3595.0# 7100.0 7103.5# 14097.5 14097.5# 
+
+K6SDR.WINLINK, Steve Reynolds/K6SDR, [CM87RX: San Rafael, CA], (Tue, 13 Feb 2018 04:31:00 GMT)
+   E  steve@sreynolds.com
+   A  San Rafael, CA
+   -  3589.0# 7104.5# 10146.2# 14105.5# 
+
+K7DAV.WINLINK, Brad Wilcox, KJ7NO/K7DAV, [DN40BX: Farmington, UT], (Tue, 13 Feb 2018 00:08:00 GMT)
+   E  bwilcox@co.davis.ut.us
+   H  http://www.dcarc.net
+   A  Farmington, UT
+   -  3594.0 3594.0# 3597.0 3597.0# 7065.9 7068.9 7101.2# 7104.5# 14107.0# 
+
+K7NHV.WINLINK, Al Francisco/K7NHV, [CN87SK: Vashon, WA], (Tue, 13 Feb 2018 02:53:00 GMT)
+   E  k7nhv@arl.net
+   A  Vashon, WA
+   -  3599.0# 7103.7# 10146.5# 
+
+K9BBS-10.WINLINK, Jerome Kutche/K9BBS, [EM68SR: Mitchell, IN], (Tue, 13 Feb 2018 04:46:00 GMT)
+   E  n9lya@uronmode.n9lya.ampr.org
+   H  http://www.n9lya.com
+   A  Mitchell, IN
+   -  14112.5 14112.5# 18109.5 18109.5# 
+
+KA0NPJ.WINLINK, Graham Bloy/KA0NPJ, [EM48VG: St Louis, MO], (Tue, 13 Feb 2018 04:16:00 GMT)
+   E  gpbloy@aol.com
+   A  St Louis, MO
+   -  3591.0 3591.0# 7102.5 7102.5# 10142.5 10142.5# 14096.1 14096.1# 
+
+KA7HRC.WINLINK, Kenneth Jacobs/KA7HRC, [CN95GQ: Hood River, OR], (Tue, 13 Feb 2018 00:41:00 GMT)
+   E  kd6pgi@gmail.com
+   A  Hood River, OR
+   -  3595.0 3595.0# 
+
+KB5HCD.WINLINK, Alan Isaachsen/KB5HCD, [EL29FU: Houston, Tx], (Tue, 13 Feb 2018 03:26:00 GMT)
+   E  kb2wf.tx@gmail.com
+   A  Houston, Tx
+   -  7065.3 7101.0# 10145.2# 14103.2# 18105.1# 
+
+KB5LZK.WINLINK, KB5WBH/KB5LZK, [EM34UT: North Little Rock, Ar], (Tue, 13 Feb 2018 04:51:00 GMT)
+   E  kb5wbh@gmail.com
+   A  North Little Rock, Ar
+   -  3594.0 3594.0# 7068.9 7101.2 7101.2# 
+
+KB5MAC.WINLINK, alan isaachsen/KB5MAC, [EM20FA: Houston, Tx], (Tue, 13 Feb 2018 02:19:00 GMT)
+   E  kb2wf.tx@gmail.com
+   A  Houston, Tx
+   -  3572.0 3594.0# 7082.5 7103.9# 
+
+KB6YNO.WINLINK, Eric Simmons/KB6YNO, [CM88QG: Petaluma, CA], (Tue, 13 Feb 2018 04:59:00 GMT)
+   E  kb6yno@comcast.net
+   H  http://www.qsl.net/kb6yno
+   A  Petaluma, CA
+   -  14063.9 14108.9# 18098.9 
+
+KC0TPS.WINLINK, Carondolet Amateur Radio Society/KC0TPS, [EM48VN: Saint Louis, Missouri], (Tue, 13 Feb 2018 05:01:00 GMT)
+   E  kc0tps@gmail.com
+   H  http://www.rfcars.com
+   A  Saint Louis, Missouri
+   -  7104.0 7104.0# 10145.9 10145.9# 14098.7 14098.7# 
+
+KC2HKU.WINLINK, ED/KC2HKU, [EM85WX: Spruce Pine, N.C.], (Tue, 13 Feb 2018 04:07:00 GMT)
+   E  kc2hku@gmail.com
+   A  Spruce Pine, N.C.
+   -  3595.0 3595.0# 7103.7 7103.7# 10142.5 10142.5# 14106.7 14106.7# 
+
+KC7COL.WINLINK, Columbia County ARES/KC7COL, [CN85OU: St. Helens, Oregon], (Tue, 13 Feb 2018 02:59:00 GMT)
+   E  bgrabhorn@comcast.net
+   A  St. Helens, Oregon
+   -  3597.5 3597.5# 
+
+KC8YJJ.WINLINK, Gary Rosenlieb/KC8YJJ, [EN90PL: Toronto, Ohio], (Tue, 13 Feb 2018 03:47:00 GMT)
+   E  kc8yjj@gmail.com
+   A  Toronto, Ohio
+   -  3589.5 3589.5# 7102.5 7102.5# 14095.5 14095.5# 
+
+KE7XO.WINLINK, Richard/KE7XO, [DM26JG: North Las Vegas, NV], (Tue, 13 Feb 2018 04:41:00 GMT)
+   E  ke7xo@cox.net
+   A  North Las Vegas, NV
+   -  3587.0 3587.0# 3589.0# 7101.5 7101.5# 7103.0# 10146.0 10146.0# 14105.0 14105.0# 
+
+KF7RSF.WINLINK, Thomas Noel/KF7RSF, [CN73TD: Bandon, OR], (Tue, 13 Feb 2018 04:04:00 GMT)
+   E  tnoel@mac.com
+   A  Bandon, OR
+   -  3585.5# 7101.5# 10144.5# 14101.7# 
+
+KG5KS.WINLINK, Kenny Thompson/KG5KS, [EM45JP: Tuckerman, Arkansas], (Tue, 13 Feb 2018 04:28:00 GMT)
+   E  hamming49@gmail.com
+   A  Tuckerman, Arkansas
+   -  3592.0 3592.0# 
+
+KH6SF.WINLINK, Sean Fendt/KH6SF, [BK29KL: Mountain View, HI], (Tue, 13 Feb 2018 04:36:00 GMT)
+   E  sean@sfendt.net
+   H  www.sfendt.net
+   A  Mountain View, HI
+   -  7102.0 7102.0# 10142.5 10142.5# 14102.1 14102.1# 
+
+KH6SP.WINLINK, Gus MacFeeley, NH7J/KH6SP, [BL01XM: Wahiawa, HI], (Tue, 13 Feb 2018 02:48:00 GMT)
+   E  w2ait@arrl.net
+   A  Wahiawa, HI
+   -  7104.0 7104.0# 10143.0 10143.0# 18107.0 18107.0# 
+
+KH6UL.WINLINK, Gus MacFeeley, NH7J/KH6UL, [BL01XM: Wahiawa, HI], (Tue, 13 Feb 2018 02:44:00 GMT)
+   E  w2ait@arrl.net
+   A  Wahiawa, HI
+   -  14106.0 14106.0# 21095.0 21095.0# 
+
+KI4WPI.WINLINK, KI4WPI/KI4WPI, [EL96UF: TAMARAC, FL], (Tue, 13 Feb 2018 04:49:00 GMT)
+   E  garymic1@aol.com
+   A  TAMARAC, FL
+   -  3598.5 3598.5# 7103.2 7103.2# 10142.5 10142.5# 14096.1 14096.1# 18107.8 18107.8# 
+
+KJ6IX.WINLINK, Dale Yanz/KJ6IX, [DM08DV: Gardnerville, Nv], (Tue, 13 Feb 2018 04:15:00 GMT)
+   E  kj6ix@arrl.net
+   A  Gardnerville, Nv
+   -  7103.0 7103.0# 
+
+KK5QT.WINLINK, Robby Roberson/KK5QT, [EL19AN: Seguin, Texas], (Tue, 13 Feb 2018 04:20:00 GMT)
+   E  w5seg@swbell.net
+   A  Seguin, Texas
+   -  3587.5 3587.5# 7067.5 7067.5# 10141.0 10141.0# 14098.0 14098.0# 
+
+KL7EDK.WINLINK, Jerry/KL7EDK, [BP64DV: Fairbanks, Alaska], (Tue, 13 Feb 2018 02:53:00 GMT)
+   E  jercurry@att.net
+   A  Fairbanks, Alaska
+   -  3595.0 3595.0# 7065.9 7104.4# 10147.7 10147.7# 14064.0 14098.5# 
+
+KM0R.WINLINK, Don Moore/KM0R, [EM38TX: Columbia, MISSOURI], (Tue, 13 Feb 2018 04:33:00 GMT)
+   E  don228@gmail.com
+   A  Columbia, MISSOURI
+   -  3597.0# 7062.9 7104.0# 
+
+KQ4ET.WINLINK, Joel Michello/KQ4ET, [FM16XU: Virginia Beach, Virginia], (Tue, 13 Feb 2018 05:05:00 GMT)
+   E  kq4et@exis.net
+   H  www.diveservicesinc.com
+   A  Virginia Beach, Virginia
+   -  3589.0 3589.0# 7067.9 7067.9# 7101.2 7101.2# 10146.5 10146.5# 14110.0 14110.0# 18106.9 18106.9# 21098.7 21098.7# 
+
+KX4Z.WINLINK, Gordon Gibby MD/KX4Z, [EL89RQ: Newberry, FL], (Tue, 13 Feb 2018 04:40:00 GMT)
+   E  ggibby@anest.ufl.edu
+   A  Newberry, FL
+   -  3595.5 3595.5# 7104.0 7104.0# 10141.0 10141.0# 14098.7 14098.7# 18106.2 18106.2# 
+
+LA3F.WINLINK, LA7UM, Finn / LB3VE, Tore/LA3F, [JO59JS: Follo, se Oslo, Akershus], (Tue, 13 Feb 2018 02:28:00 GMT)
+   E  la7um@yahoo.com
+   H  www.la3f.no
+   A  Follo, se Oslo, Akershus
+   -  3597.9 3607.0 3607.0# 3610.5 3610.5# 5321.5 5351.5 5351.5# 5360.0 7049.5 7052.0 7052.0# 7054.5 7054.5# 10145.4 10147.1 
+
+LA3PNA.WINLINK, Thomas S. Knutsen/LA3PNA, [JO59BR: Drammen, NA], (Tue, 13 Feb 2018 02:35:00 GMT)
+   E  la3pna@gmail.com
+   A  Drammen, NA
+   -  5283.0 
+
+LA5G.WINLINK, Henrik Solhaug/LA5G, [JP50HS: Hunndalen, Oppland], (Mon, 12 Feb 2018 23:53:00 GMT)
+   E  la6eta@la5g.no
+   A  Hunndalen, Oppland
+   -  3595.5 3602.0 3602.0# 7047.0 7053.5 7053.5# 
+
+LA7F.WINLINK, Gunvald Pedersen/LA7F, [JP77QG: Fauske, NA], (Tue, 13 Feb 2018 04:20:00 GMT)
+   E  post@la3aea.net
+   A  Fauske, NA
+   -  3598.0 3608.0 3608.0# 7049.0 7058.0 7058.0# 
+
+LZ3CB.WINLINK, Todor Ivanov/LZ3CB, [KN32QL: Burgas, Burgas], (Tue, 13 Feb 2018 02:19:00 GMT)
+   E  office@devabroadcast.com
+   H  www.devabroadcast.com
+   A  Burgas, Burgas
+   -  3598.5 3598.5# 7046.0 7046.0# 10135.5 10135.5# 14114.0 14114.0# 
+
+N2LEE.WINLINK, Lee Love/N2LEE, [FM18HX: Herndon, VA], (Tue, 13 Feb 2018 04:35:00 GMT)
+   E  lee@n2lee.com
+   H  www.n2lee.com
+   A  Herndon, VA
+   -  3591.0# 7102.5# 14105.5# 18108.0# 
+
+N5ARC.WINLINK, Paul Allred/N5ARC, [EM12PT: Dallas, TX], (Tue, 13 Feb 2018 03:21:00 GMT)
+   E  paulallred@msn.com
+   A  Dallas, TX
+   -  3597.5# 5348.0# 7103.3# 10144.1# 14113.0# 
+
+N5MDT.WINLINK, Mark Taylor/N5MDT, [EM20EJ: Montgomery, Tx], (Tue, 13 Feb 2018 04:25:00 GMT)
+   E  mtaylor@lrim.com
+   A  Montgomery, Tx
+   -  7104.5 7104.5# 
+
+N5TW.WINLINK, Tom Whiteside/N5TW, [EM10CP: Georgetown, TX], (Tue, 13 Feb 2018 04:39:00 GMT)
+   E  tomw@ecpi.com
+   A  Georgetown, TX
+   -  3596.0# 7066.5 7091.5 7102.0# 10148.0# 14110.0# 
+
+N5UXT.WINLINK, Angelo Glorioso/N5UXT, [EM40XA: New Orleans, LA], (Tue, 13 Feb 2018 04:58:00 GMT)
+   E  n5uxt@hotmail.com
+   A  New Orleans, LA
+   -  7103.0 10142.5 14096.1 
+
+N7MO.WINLINK, Pamela Follansbee/N7MO, [DN06LJ: Pasco, WA], (Tue, 13 Feb 2018 02:35:00 GMT)
+   E  wm7r@eltopia.com
+   A  Pasco, WA
+   -  3597.0 3597.0# 7082.0 7102.0# 10147.7 10147.7# 
+
+NH6NN.WINLINK, Joe Speroni, AH0A/NH6NN, [BL11CK: Honolulu, HI], (Tue, 13 Feb 2018 03:39:00 GMT)
+   E  ah0a@arrl.net
+   A  Honolulu, HI
+   -  3587.5# 7103.5# 7109.0 21094.5# 
+
+OE3XEC.WINLINK, MUTTENTHALER Franz/OE3XEC, [JN78LC: Sankt Georgen am Ybbsfelde, Oesterreich], (Tue, 13 Feb 2018 04:48:00 GMT)
+   E  oe3fqu@amrs.at
+   H  www.amrs.at
+   A  Sankt Georgen am Ybbsfelde, Oesterreich
+   -  3608.5 3608.5# 3617.5 3617.5# 10146.5 
+
+OE5XIR.WINLINK, Christian HACKER/OE5XIR, [JN78AE: EBERSTALZELL, Upper Austria], (Tue, 13 Feb 2018 03:05:00 GMT)
+   E  oe5hce@gmail.com
+   H  www.amrs.at
+   A  EBERSTALZELL, Upper Austria
+   -  3605.5 3605.5# 
+
+OE6XPD.WINLINK, Heimo Muehler/OE6XPD, [JN76US: St. Veit in der Suedsteiermark, Austria], (Tue, 13 Feb 2018 04:57:00 GMT)
+   E  oe6old@gmx.net
+   A  St. Veit in der Suedsteiermark, Austria
+   -  3598.5 3598.5# 3601.5 3601.5# 7048.5 7048.5# 7057.5 7057.5# 
+
+OE9XRK.WINLINK, Werner Furlan OE9FWV/OE9XRK, [JN47TG: Feldkirch, Vorarlberg], (Tue, 13 Feb 2018 03:58:00 GMT)
+   E  furlan@gmx.net
+   H  www.oe9.at/oe9xrk.html
+   A  Feldkirch, Vorarlberg
+   -  3602.5 3602.5# 3608.5 3608.5# 7054.5 7054.5# 14111.5 14111.5# 28310.0 28310.0# 
+
+PA3GJM.WINLINK, Hans Vreeswijk/PA3GJM, [JO21NV: Acquoy, Gelderland-Zuid], (Tue, 13 Feb 2018 03:06:00 GMT)
+   E  hans.vreeswijk@online.nl
+   A  Acquoy, Gelderland-Zuid
+   -  3593.5 3593.5# 5359.9 5359.9# 7041.4 7041.4# 10136.9 10136.9# 14065.4 14065.4# 18100.9 18100.9# 
+
+RK0LXA.WINLINK, Andrey Popovich/UA0LDK/RK0LXA, [PN53WD: Vladivostok, Primorye], (Tue, 13 Feb 2018 04:03:00 GMT)
+   E  andrey@chava.ru
+   H  www.chava.ru
+   A  Vladivostok, Primorye
+   -  7165.0 7165.0# 10143.7 10143.7# 10149.7 10149.7# 14105.0 14105.0# 21117.0 21117.0# 
+
+RT9K.WINLINK, Igor Znamenskiy/RT9K, [MP84UV: Tarko-Sale, YANAO], (Tue, 13 Feb 2018 02:38:00 GMT)
+   E  ua9kdf@inbox.ru
+   H  www.qrz.com/db/ua9kdf
+   A  Tarko-Sale, YANAO
+   -  3585.0 3585.0# 7178.0 7178.0# 10128.0 10128.0# 10132.0 10132.0# 14105.7 14105.7# 14110.5 14110.5# 21115.3 21115.3# 28317.3 28317.3# 
+
+RZ3DHN.WINLINK, Andrey Morgunov/RZ3DHN, [KO94AV: Stupino, Mos.obl.], (Tue, 13 Feb 2018 04:49:00 GMT)
+   E  rz3dhn@mail.ru
+   H  www.dstar.su
+   A  Stupino, Mos.obl.
+   -  3615.8 3615.8# 7047.3 7047.3# 7078.8 7078.8# 10142.8 10142.8# 10150.0 10150.0# 14098.3 14098.3# 14105.3 14105.3# 
+
+S50ARO.WINLINK, Tilen Cestnik/S50ARO, [JN76GB: Ljubljana, NA], (Tue, 13 Feb 2018 03:23:00 GMT)
+   E  tilen_cestnik@yahoo.com
+   A  Ljubljana, NA
+   -  7047.5 7047.5# 14112.5 14112.5# 
+
+S57MK.WINLINK, Matjaz Kmet/S57MK, [JN76NE: Trbovlje, NA], (Tue, 13 Feb 2018 03:30:00 GMT)
+   E  matjaz.kmet@gmail.com
+   A  Trbovlje, NA
+   -  3598.5 3598.5# 3620.0 3620.0# 7047.5 7047.5# 7054.5 7054.5# 10146.5 10146.5# 
+
+S59GCD.WINLINK, Matjaz Kmet/S57MK, [JN76OD: Trbovlje, NA], (Tue, 13 Feb 2018 04:08:00 GMT)
+   E  matjaz.kmet@gmail.com
+   A  Trbovlje, NA
+   -  3600.5 3600.5# 
+
+SK6PS.WINLINK, Gunnar Bulukin/SK6PS, [JO57UQ: GrAtA, VAstra GAtaland], (Tue, 13 Feb 2018 03:04:00 GMT)
+   E  sa6bqz@gmail.com
+   A  GrAtA, VAstra GAtaland
+   -  3618.0 3618.0# 7053.5 7053.5# 10146.5 14107.5 14107.5# 18109.5 
+
+SM5RVH.WINLINK, Robert/SM5RVH, [JO88LQ: Nykoping, NA], (Tue, 13 Feb 2018 03:57:00 GMT)
+   E  sm5rvh@gmail.com
+   A  Nykoping, NA
+   -  3602.0 3602.0# 7056.0 7056.0# 10142.0 14109.0 14109.0# 
+
+VA7BCE.WINLINK, Ted Maczulat/VA7BCE, [CN79OG: Port Alberni, BC], (Tue, 13 Feb 2018 05:01:00 GMT)
+   E  t.maczulat@shaw.ca
+   A  Port Alberni, BC
+   -  3587.0# 
+
+VA7TSA.WINLINK, Salvation Army Satern/VA7TSA, [CN89UB: Abbotsford, BC], (Tue, 13 Feb 2018 05:01:00 GMT)
+   E  va7dgp@gmail.com
+   H  www.satern.org
+   A  Abbotsford, BC
+   -  3685.0# 7101.0# 14109.0# 
+
+VE1YZ.WINLINK, Neil Hughes/VE1YZ, [FN84BQ: Head of St Margarets Ba, NS], (Tue, 13 Feb 2018 02:21:00 GMT)
+   E  ve1yz@eastlink.ca
+   A  Head of St Margarets Ba, NS
+   -  3565.0# 7096.5# 10133.0# 14114.0# 
+
+VE6GPS.WINLINK, J.T. (Mitch) Mitchell/CIW930, [DO33FN: Edmonton, Alberta], (Tue, 13 Feb 2018 04:41:00 GMT)
+   E  ssc@andor.net
+   H  http://cfars.ca
+   A  Edmonton, Alberta
+   -  5405.0 5405.0# 7096.5 7096.5# 10136.5 10136.5# 14114.0 14114.0# 
+
+VE7AXY.WINLINK, JC Daehler/VE7AXY, [CN79LT: Merville, BC], (Tue, 13 Feb 2018 02:19:00 GMT)
+   E  jc.daehler@@gmail.com
+   A  Merville, BC
+   -  7084.0# 10134.5# 14111.5# 
+
+VE7GN.WINLINK, Mike Hale/VE7GN, [CN89CD: Gabriola, BC], (Tue, 13 Feb 2018 04:33:00 GMT)
+   E  ve7gn@shaw.ca
+   A  Gabriola, BC
+   -  3597.0 3597.0# 
+
+VE7RBH.WINLINK, Doug Steventon (BVARS)/VE7RBH, [CO64JT: Smithers, BC], (Tue, 13 Feb 2018 02:41:00 GMT)
+   E  ve7rbh@rac.ca
+   H  www.bvars.org
+   A  Smithers, BC
+   -  3625.0 3625.0# 7064.5 7064.5# 14081.5 14081.5# 18107.5 18107.5# 
+
+VE9SC.WINLINK, Stephen R. Conrad/VE9SC, [FN76NC: Moncton, New Brunswick], (Tue, 13 Feb 2018 04:21:00 GMT)
+   E  ve9sc@e9sc.com
+   H  www.ve9sc.com
+   A  Moncton, New Brunswick
+   -  14111.0 14111.0# 
+
+VK2JN.WINLINK, James andamp;amp;amp;amp;amp;amp;amp;amp;amp; Rene/VK2JN, [QF56OG: Sydney, New South Wales], (Tue, 13 Feb 2018 04:43:00 GMT)
+   E  jamesnelson_vk2jn@yahoo.com.au
+   A  Sydney, New South Wales
+   -  3620.2# 7046.7# 10116.2# 14106.7# 18107.0# 21298.7# 
+
+VK3DPW.WINLINK, Paul Whitaker/VK3DPW, [QF21MQ: Red Hill, Victoria], (Tue, 13 Feb 2018 03:04:00 GMT)
+   E  wicen@dromanadrivein.com.au
+   H  http://www.vic.wicen.org.au/
+   A  Red Hill, Victoria
+   -  3635.0# 7030.5# 10142.5# 14113.0# 
+
+VK6KPS.WINLINK, Phil Sutherland/VK6KPS, [OF76OE: Treeton, Western Australia], (Tue, 13 Feb 2018 03:15:00 GMT)
+   E  phil@sutherland.id.au
+   A  Treeton, Western Australia
+   -  3624.3 3624.3# 7043.5 7043.5# 10135.4 10135.4# 14097.5 14097.5# 18113.8 18113.8# 21126.5 21126.5# 
+
+W0MAC.WINLINK, Alan Isaachsen/W0MAC, [EM20GA: Houston, TX], (Tue, 13 Feb 2018 03:54:00 GMT)
+   E  kb2wf.tx@gmail.com
+   A  Houston, TX
+   -  3584.5 3592.0# 7066.0 7101.2# 
+
+W1EO.WINLINK, doc/W1EO, [FN42IM: carlisle, ma], (Tue, 13 Feb 2018 03:02:00 GMT)
+   E  d.g.willard@comcast.net
+   A  carlisle, ma
+   -  1845.0 3597.9 3597.9# 7104.5 7104.5# 10144.5 10144.5# 14104.2 14104.2# 
+
+W3JY.WINLINK, AMES JR, JOSEPH A/W3JY, [FN20FA: Malvern, PA], (Tue, 13 Feb 2018 03:46:00 GMT)
+   E  w3jy@delcoares.org
+   H  www.radio-relay.org
+   A  Malvern, PA
+   -  3591.0 3591.0# 7100.4 14113.9 
+
+W4EDW.WINLINK, Ed Wafford/W4EDW, [FM14MW: Havelock, NC], (Tue, 13 Feb 2018 02:39:00 GMT)
+   E  edwafford@live.com
+   A  Havelock, NC
+   -  3572.0 3587.5# 7103.5# 7106.5 
+
+W5KAV.WINLINK, Chuck Verdon/W5KAV, [CN86KT: Rochester, WA], (Tue, 13 Feb 2018 04:41:00 GMT)
+   E  chuckw5kav@comcast.net
+   A  Rochester, WA
+   -  3592.5 3592.5# 10144.4 10144.4# 53585.0 53585.0# 
+
+W5WSR.WINLINK, William Scot Russell/W5WSR, [EL29GA: Lake Jackson, Texas], (Tue, 13 Feb 2018 02:28:00 GMT)
+   E  scotrussell@earthlink.net
+   A  Lake Jackson, Texas
+   -  7101.8 7101.8# 14105.6 14105.6# 
+
+W6IDS.WINLINK, Howard/W6IDS, [EM79NV: Richmond, IN], (Tue, 13 Feb 2018 04:28:00 GMT)
+   E  w6ids@frontier.com
+   A  Richmond, IN
+   -  3569.0 7084.5 
+
+W6IM.WINLINK, Rod McLennan/W6IM, [DM12JR: SAN DIEGO, CA], (Tue, 13 Feb 2018 02:32:00 GMT)
+   E  ramclennan@att.net
+   A  SAN DIEGO, CA
+   -  7072.0 7102.0# 10145.0# 14097.0# 
+
+W7BO.WINLINK, John J Burke/W7BO, [CN85PV: Woodland, WA], (Tue, 13 Feb 2018 02:18:00 GMT)
+   E  jj@woodlandwachamber.com
+   A  Woodland, WA
+   -  7085.0 
+
+W7DEM.WINLINK, DALE YANZ/W7DEM, [DM09DD: CARSON CITY, NEVADA], (Tue, 13 Feb 2018 05:01:00 GMT)
+   E  w7demnv@gmail.com
+   A  CARSON CITY, NEVADA
+   -  7103.0# 
+
+W7VMI.WINLINK, Al Francisco/W7VMI, [CN87SK: Vashon, WA], (Tue, 13 Feb 2018 02:31:00 GMT)
+   E  k7nhv@arrl.net
+   A  Vashon, WA
+   -  3588.5# 7102.5# 10141.0# 
+
+W7YAM.WINLINK, Potter/W7YAM, [CN85JF: McMinnville, Or], (Tue, 13 Feb 2018 02:59:00 GMT)
+   E  darthfadar@gmail.com
+   A  McMinnville, Or
+   -  7090.0 7090.0# 
+
+W8ORG-10.WINLINK, Randy Thomas/W8ORG, [EM99JJ: Newport, oh], (Tue, 13 Feb 2018 04:39:00 GMT)
+   E  k8khw@k8khw.com
+   A  Newport, oh
+   -  3594.0 3594.0# 7104.5 7104.5# 14110.0 14110.0# 
+
+WB2LMV.WINLINK, Glenn L Roeser/WB2LMV, [FN21TS: Napanoch, NY], (Tue, 13 Feb 2018 04:25:00 GMT)
+   E  wb2lmv@gmail.com
+   A  Napanoch, NY
+   -  7103.5 7103.5# 
+
+WB9AYD.WINLINK, Gary Wells/WB9AYD, [EL87RH: Sarasota, Florida], (Tue, 13 Feb 2018 03:28:00 GMT)
+   E  wb9ayd@yahoo.com
+   H  wb9ayd.info
+   A  Sarasota, Florida
+   -  7103.7 7103.7# 10146.0 10146.0# 14098.7 14098.7# 18107.0 18107.0# 
+
+WD1O.WINLINK, Richard Bates/WD1O, [FN53IX: St. George, Maine], (Tue, 13 Feb 2018 04:46:00 GMT)
+   E  richard@highlands.com
+   A  St. George, Maine
+   -  3589.5 3589.5# 7102.5 7102.5# 28111.5 28111.5# 
+
+WD4SEN.WINLINK, Ray Cook/WD4SEN, [EM90CC: Middleburg, Florida], (Tue, 13 Feb 2018 04:02:00 GMT)
+   E  wd4sen@gmail.com
+   A  Middleburg, Florida
+   -  3587.5 3587.5# 7101.5 7101.5# 10142.5 10142.5# 14095.5 14095.5# 
+
+WG3G.WINLINK, Bernie Zindell/WG3G, [FK90FQ: Bayshore, POS, NA], (Tue, 13 Feb 2018 04:40:00 GMT)
+   E  berniewg3g@gmail.com
+   A  Bayshore, POS, NA
+   -  3569.0 3569.0# 7036.9 7107.0# 10138.0 10138.0# 14112.5 14112.5# 18101.9 18106.5# 
+
+WH6FG.WINLINK, South Kauai Digital Assoc./WH6FG, [BL01FW: Kalaheo, Hi], (Tue, 13 Feb 2018 04:32:00 GMT)
+   E  jpilgram@hawaii.rr.com
+   A  Kalaheo, Hi
+   -  7103.0 7103.0# 14096.1 14096.1# 21098.7 21098.7# 
+
+WL7CVG.WINLINK, ron keech/WL7CVG, [BP51CE: jber, ak], (Tue, 13 Feb 2018 02:21:00 GMT)
+   E  ronkeech@alaskan.com
+   A  jber, ak
+   -  3589.0 3589.0# 7075.9 7101.7# 10143.7 10143.7# 14065.9 14096.2# 
+
+WQ2H.WINLINK, James Poulette/WQ2H, [FN32XV: Dublin, NH], (Tue, 13 Feb 2018 03:23:00 GMT)
+   E  wq2h@arrl.net
+   A  Dublin, NH
+   -  3595.0 3595.0# 
+
+WW4MSK.WINLINK, Wallace Wilhoite/WW4MSK, [EM74UW: Mineral Bluff, GA], (Tue, 13 Feb 2018 04:33:00 GMT)
+   E  wmw1490@yahoo.com
+   A  Mineral Bluff, GA
+   -  3588.5 3588.5# 7103.5 7103.5# 
+
+XE1CRG.WINLINK, Mike/XE1CRG, [DL90HQ: -, -], (Tue, 13 Feb 2018 03:25:00 GMT)
+   E  n6kzb@crebc.org
+   H  -
+   A  -, -
+   -  10142.0# 14085.0# 18107.0# 21102.5# 
+
+XE1VP.WINLINK, UNAM/XE1VP, [EK09JI: Mexico City, -], (Tue, 13 Feb 2018 03:25:00 GMT)
+   E  n6kzb@outlook.com
+   H  -
+   A  Mexico City, -
+   -  10143.0# 14092.9# 18098.5# 
+
+XE2BNC.WINLINK, Mike/XE2BNC, [DM12MM: -, -], (Tue, 13 Feb 2018 03:11:00 GMT)
+   E  n6kzb@outlook.com
+   H  -
+   A  -, -
+   -  3591.7# 7068.0# 10144.0# 14095.5# 18098.5# 
+
+XE2GJJ.WINLINK, Mike/XE2GJJ, [EK36KS: Tuxtla, Chiapas], (Tue, 13 Feb 2018 03:24:00 GMT)
+   E  n6kzb@outlook.com
+   H  ---
+   A  Tuxtla, Chiapas
+   -  3592.5# 7069.0# 10146.5# 14096.9# 18097.0# 
+
+ZL2ABN.WINLINK, Graham Ridding/ZL2ABN, [RE78KV: Porirua, Wellington], (Tue, 13 Feb 2018 03:30:00 GMT)
+   E  zl2abn@ihug.co.nz
+   A  Porirua, Wellington
+   -  7030.5 7030.5# 10143.5 10143.5# 14084.3 14084.3# 18131.5 18131.5# 
+
+ZS0JDE.WINLINK, Hannes Enslin/ZS6JDE, [KG44DF: Pretoria, Gauteng], (Tue, 13 Feb 2018 03:00:00 GMT)
+   E  zs6jde@mweb.co.za
+   A  Pretoria, Gauteng
+   -  14088.2 14088.2# 14115.5 14115.5# 14117.9 14117.9# 
+
+ZS1RS.WINLINK, Colin Porter/ZS1RS, [JF96HD: Cape Town, Western Cape], (Tue, 13 Feb 2018 02:38:00 GMT)
+   E  porter@netcon.co.za
+   A  Cape Town, Western Cape
+   -  3641.5 3641.5# 7046.5 7046.5# 14105.5 14105.5# 14109.0 14109.0# 21117.5 21117.5# 
